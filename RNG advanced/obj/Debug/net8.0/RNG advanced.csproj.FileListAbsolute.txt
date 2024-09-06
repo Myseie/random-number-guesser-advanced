@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\RNG advanced\bin\Debug\net8.0\RNG advanced.exe
+D:\Programmering\Programmering\RNG advanced\bin\Debug\net8.0\RNG advanced.deps.json
+D:\Programmering\Programmering\RNG advanced\bin\Debug\net8.0\RNG advanced.runtimeconfig.json
+D:\Programmering\Programmering\RNG advanced\bin\Debug\net8.0\RNG advanced.dll
+D:\Programmering\Programmering\RNG advanced\bin\Debug\net8.0\RNG advanced.pdb
+D:\Programmering\Programmering\RNG advanced\obj\Debug\net8.0\RNG advanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\RNG advanced\obj\Debug\net8.0\RNG advanced.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\RNG advanced\obj\Debug\net8.0\RNG advanced.AssemblyInfo.cs
+D:\Programmering\Programmering\RNG advanced\obj\Debug\net8.0\RNG advanced.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\RNG advanced\obj\Debug\net8.0\RNG advanced.dll
+D:\Programmering\Programmering\RNG advanced\obj\Debug\net8.0\refint\RNG advanced.dll
+D:\Programmering\Programmering\RNG advanced\obj\Debug\net8.0\RNG advanced.pdb
+D:\Programmering\Programmering\RNG advanced\obj\Debug\net8.0\RNG advanced.genruntimeconfig.cache
+D:\Programmering\Programmering\RNG advanced\obj\Debug\net8.0\ref\RNG advanced.dll
